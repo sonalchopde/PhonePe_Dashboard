@@ -1,4 +1,4 @@
-# 📊 PhonePe Transaction Data Analysis (Power BI Project)
+# 📊 PhonePe Data Analysis (Power BI Project)
 
 This project presents an interactive Power BI dashboard built using PhonePe's transaction data. The aim is to visualize digital payment patterns across Indian states, years, transaction types, and regions.
 
