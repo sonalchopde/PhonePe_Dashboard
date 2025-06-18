@@ -58,7 +58,6 @@ These slicers allow users to interactively filter and explore data trends.
 Made by Sonal Chopde  
 📧 Email: sonal242003@gmail.com  
 
-**Built using Power BI |
 
 ---
 
